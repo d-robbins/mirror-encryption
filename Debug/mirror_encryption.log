@@ -1,0 +1,8 @@
+﻿  MirrorEncryption.cpp
+c:\users\david\desktop\projects\mirror_encryption\mirror_encryption\mirrorencryption.cpp(107): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\desktop\projects\mirror_encryption\mirror_encryption\mirrorencryption.cpp(109): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\desktop\projects\mirror_encryption\mirror_encryption\mirrorencryption.cpp(120): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  mirror_encryption.vcxproj -> C:\Users\David\Desktop\Projects\mirror_encryption\Debug\mirror_encryption.exe
+  mirror_encryption.vcxproj -> C:\Users\David\Desktop\Projects\mirror_encryption\Debug\mirror_encryption.pdb (Partial PDB)
